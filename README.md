@@ -1,4 +1,4 @@
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/9aa5cc4c-b7de-47c7-acd1-17c81c2c4cfc" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9aa5cc4c-b7de-47c7-acd1-17c81c2c4cfc" />
 
 
 # 🐍 Python Projects Portfolio
