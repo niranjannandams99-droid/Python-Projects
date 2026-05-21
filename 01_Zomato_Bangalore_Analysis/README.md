@@ -144,7 +144,7 @@ plt.show()
 
 
 
-> **📈 Insight:** BTM, Koramangala, and Indiranagar have the highest restaurant density — strong food cultures but intense competition. Low-density areas represent untapped market opportunities.
+> **📈 Insight:** BTM and Koramangala have the highest restaurant density — strong food cultures but intense competition. Low-density areas represent untapped market opportunities.
 
 ---
 
@@ -163,7 +163,7 @@ plt.show()
 
 
 
-> **📈 Insight:** Locations like Church Street and MG Road show very high average votes, signalling strong customer demand regardless of restaurant count.
+> **📈 Insight:** Church Street and Lavelle Road have fewer restaurants but extremely engaged customers — ideal for premium dining concepts.
 
 ---
 
