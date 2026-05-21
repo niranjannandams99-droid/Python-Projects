@@ -207,8 +207,7 @@ plt.show()
 
 
 
-> **📈 Insight:** The median cost sits in the ₹300–₹700 range, with a long right tail — a small number of premium restaurants skew the distribution significantly.
-
+> **📈 Insight:** The bulk of the market operates under ₹700 for two. Premium pricing above ₹1,500 is a niche strategy — high risk, high reward.
 ---
 
 ### 5️⃣ Pricing Strategy — Distribution Histogram
@@ -229,8 +228,7 @@ plt.show()
 
 
 
-> **📈 Insight:** Most restaurants fall in the **₹300–₹700** price range. Mid-range pricing is the dominant and most competitive strategy in Bangalore's food market.
-
+> **📈 Insight:** ₹300–₹600 is the most competitive price band. Positioning at ₹700–₹1,000 could be a sweet spot — above budget but below premium — less crowded.
 ---
 
 ### 6️⃣ Customer Satisfaction vs. Popularity
