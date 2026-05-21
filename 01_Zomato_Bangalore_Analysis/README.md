@@ -273,7 +273,7 @@ plt.show()
 
 
 
-> **📈 Insight:** Several emerging and mid-density locations score high on the opportunity index — high demand with relatively fewer restaurants. These are prime candidates for new restaurant openings.
+> **📈 Insight:** Rajarajeshwari Nagar is a goldmine — very high demand relative to competition. West Bangalore and Central Bangalore are secondary opportunities. These are the data-backed answers to "Where should you open a restaurant?"
 
 ---
 
@@ -281,13 +281,12 @@ plt.show()
 
 | # | Insight |
 |---|---|
-| 📍 | BTM, Koramangala, and Indiranagar are the most saturated locations |
-| 📊 | Church Street and similar areas show the strongest average customer demand |
-| 🍜 | North Indian and Chinese cuisines dominate — niche offerings can reduce competition |
-| 💰 | Mid-range pricing (₹300–₹700) is the sweet spot for most customers |
-| ⭐ | Higher ratings strongly correlate with more votes and visibility |
-| 🎯 | Emerging locations with high Opportunity Scores are ideal for new entrants |
-
+| 📍 Avoid | BTM and Koramangala are the most saturated locations |
+| 📊 High demand | Church Street and similar areas show the strongest average customer demand |
+| 🍜 Cuisine | North Indian and Chinese cuisines dominate — niche offerings can reduce competition |
+| 💰 Price at | Mid-range pricing (₹300–₹700) is the sweet spot for most customers |
+| ⭐ Target | Higher ratings strongly correlate with more votes and visibility |
+| 🎯 Focus on | Emerging locations with high Opportunity Scores are ideal for new entrants |
 ---
 
 ## 💡 Business Recommendations
