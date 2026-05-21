@@ -1,4 +1,5 @@
-<img width="1026" height="481" alt="Screenshot 2026-05-21 143741" src="https://github.com/user-attachments/assets/21db0d1c-5713-4578-86ee-2850ebcfcd22" />
+<img width="1026" height="481" alt="Screenshot 2026-05-21 143741" src="https://github.com/user-attachments/assets/9c86f032-1f46-428e-8746-edd7316c8303" />
+
 
 
 
@@ -138,7 +139,9 @@ plt.title("Restaurant Density by Location")
 plt.show()
 ```
 
-<img width="561" height="602" alt="image" src="https://github.com/user-attachments/assets/5dae2e68-384e-4aa8-8c91-e4a38779414d" />
+<img width="561" height="602" alt="Screenshot 2026-05-21 143020" src="https://github.com/user-attachments/assets/fe274cbc-f3fc-4d31-96a7-e7e5555d4251" />
+
+
 
 
 > **📈 Insight:** BTM, Koramangala, and Indiranagar have the highest restaurant density — strong food cultures but intense competition. Low-density areas represent untapped market opportunities.
@@ -155,7 +158,8 @@ plt.title("Average Customer Engagement by Location")
 plt.show()
 ```
 
-<img width="562" height="603" alt="image" src="https://github.com/user-attachments/assets/11094bbc-96d0-4d32-8a2a-419286f5fbe0" />
+<img width="562" height="603" alt="Screenshot 2026-05-21 143122" src="https://github.com/user-attachments/assets/d908e9ea-cc3f-4b66-8029-27486bbe4da2" />
+
 
 
 
@@ -180,7 +184,8 @@ plt.ylabel("Number of Restaurants")
 plt.show()
 ```
 
-<img width="589" height="529" alt="image" src="https://github.com/user-attachments/assets/2ce14000-c09b-413c-9e87-8fd39d0b10df" />
+<img width="589" height="529" alt="Screenshot 2026-05-21 143216" src="https://github.com/user-attachments/assets/8fd11af2-ac92-4dcc-b515-3403d384a91d" />
+
 
 
 
@@ -198,7 +203,8 @@ plt.title("Restaurant Price Distribution (Boxplot)")
 plt.show()
 ```
 
-<img width="522" height="455" alt="image" src="https://github.com/user-attachments/assets/d2017f60-d08e-46dd-95b9-b00552aaaf4f" />
+<img width="522" height="455" alt="Screenshot 2026-05-21 142756" src="https://github.com/user-attachments/assets/24e6dcad-0930-4e9f-a06b-bd555075cb58" />
+
 
 
 > **📈 Insight:** The median cost sits in the ₹300–₹700 range, with a long right tail — a small number of premium restaurants skew the distribution significantly.
@@ -217,7 +223,8 @@ plt.ylabel("Frequency")
 plt.show()
 ```
 
-<img width="594" height="450" alt="image" src="https://github.com/user-attachments/assets/d478707f-662d-4aa7-8e48-2624dca23d82" />
+<img width="594" height="450" alt="Screenshot 2026-05-21 142604" src="https://github.com/user-attachments/assets/7c230333-cb4e-4298-bf1d-87c7b8578581" />
+
 
 
 
@@ -238,7 +245,8 @@ plt.title("Customer Satisfaction vs Popularity")
 plt.show()
 ```
 
-<img width="592" height="456" alt="image" src="https://github.com/user-attachments/assets/e93633c1-3641-40ab-b305-6342fe786844" />
+<img width="592" height="456" alt="Screenshot 2026-05-21 142419" src="https://github.com/user-attachments/assets/3fb860b4-3ebe-4fd6-afab-2163efb8292b" />
+
 
 
 > **📈 Insight:** Restaurants with higher ratings generally accumulate more votes. Quality and popularity are closely linked — customer trust drives engagement.
@@ -263,7 +271,8 @@ plt.title("Best Locations for Opening a New Restaurant")
 plt.show()
 ```
 
-  <img width="552" height="587" alt="Screenshot 2026-05-21 142140" src="https://github.com/user-attachments/assets/efe78fbb-1370-4765-9ab6-f08722cbcac2" />
+<img width="552" height="587" alt="Screenshot 2026-05-21 142140" src="https://github.com/user-attachments/assets/83aaa06e-a2c2-420d-b8bc-9f520d9fd48a" />
+
 
 
 > **📈 Insight:** Several emerging and mid-density locations score high on the opportunity index — high demand with relatively fewer restaurants. These are prime candidates for new restaurant openings.
@@ -346,4 +355,4 @@ Data alone doesn't guarantee success — but it significantly improves the odds 
 
 ---
 
-> ⭐ If you found this project useful, star the repo and share your feedback!
+
