@@ -228,7 +228,7 @@ plt.show()
 
 
 
-> **📈 Insight:** ₹300–₹600 is the most competitive price band. Positioning at ₹700–₹1,000 could be a sweet spot — above budget but below premium — less crowded.
+> **📈 Insight:** ₹300-₹600 is the most competitive price band. Positioning at ₹700-₹1,000 could be a sweet spot — above budget but below premium — less crowded.
 ---
 
 ### 6️⃣ Customer Satisfaction vs. Popularity
@@ -284,7 +284,7 @@ plt.show()
 | 📍 Avoid | BTM and Koramangala are the most saturated locations |
 | 📊 High demand | Church Street and similar areas show the strongest average customer demand |
 | 🍜 Cuisine | North Indian and Chinese cuisines dominate — niche offerings can reduce competition |
-| 💰 Price at | Mid-range pricing (₹300–₹700) is the sweet spot for most customers |
+| 💰 Price at | Mid-range pricing (₹300-₹700) is the sweet spot for most customers |
 | ⭐ Target | Higher ratings strongly correlate with more votes and visibility |
 | 🎯 Focus on | Emerging locations with high Opportunity Scores are ideal for new entrants |
 ---
@@ -295,7 +295,7 @@ plt.show()
 Avoid over-saturated hubs unless offering strong differentiation. Prioritize locations with a high Opportunity Score — areas where customer demand outpaces supply.
 
 ### 💰 Pricing Strategy
-Mid-range pricing (₹300–₹700 for two) attracts the widest customer base. Premium pricing must be backed by exceptional experience and branding.
+Mid-range pricing (₹300-₹700 for two) attracts the widest customer base. Premium pricing must be backed by exceptional experience and branding.
 
 ### 🍜 Cuisine Selection
 Popular cuisines (North Indian, Chinese) guarantee a large audience but face fierce competition. Underrepresented cuisines can carve out a loyal niche.
